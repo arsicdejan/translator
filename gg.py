@@ -7,7 +7,7 @@ try:
     with open('./translated.txt', mode='a') as translated:
         translated.write(translation)
 except FileNotFoundError as e:
-    print('Error occur. File not found!')
+    print('File not found!')
 
 
 
