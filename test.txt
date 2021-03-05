@@ -1,0 +1,2 @@
+Hi, i am a python developer
+こんにちは、私はPython開発者です
